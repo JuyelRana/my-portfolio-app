@@ -80,49 +80,6 @@ const About = () => {
                                 platforms, frameworks, libraries, and technologies.
                             </p>
 
-                            {/*<h3>Personal Details</h3>*/}
-
-                            {/*<div className="row">*/}
-                            {/*    <div className="col-lg-6">*/}
-                            {/*        <ul>*/}
-                            {/*            <li><i className="bi bi-chevron-right"/> <strong>Birthday:</strong>*/}
-                            {/*                <span>10 September 1995</span></li>*/}
-                            {/*            <li><i className="bi bi-chevron-right"/> <strong>Website:</strong>*/}
-                            {/*                <span>http://mjuyelrana.com</span></li>*/}
-                            {/*            <li><i className="bi bi-chevron-right"/> <strong>Phone:</strong>*/}
-                            {/*                <span>+8801726903951</span></li>*/}
-                            {/*            <li><i className="bi bi-chevron-right"/> <strong>City:</strong>*/}
-                            {/*                <span>Dhaka, Bangladesh</span></li>*/}
-                            {/*        </ul>*/}
-                            {/*    </div>*/}
-                            {/*    <div className="col-lg-6">*/}
-                            {/*        <ul>*/}
-                            {/*            <li><i className="bi bi-chevron-right"/> <strong>Age:</strong>*/}
-                            {/*                <span>{new Date().getFullYear() - new Date('1995-09-10').getFullYear()}</span>*/}
-                            {/*            </li>*/}
-                            {/*            <li><i className="bi bi-chevron-right"/> <strong>Degree:</strong>*/}
-                            {/*                <span>Bsc & Msc in Computer Science and Engineering</span>*/}
-                            {/*            </li>*/}
-                            {/*            <li><i className="bi bi-chevron-right"/> <strong>Email:</strong>*/}
-                            {/*                <span>mjuyelrana@gmail.com</span>*/}
-                            {/*            </li>*/}
-                            {/*        </ul>*/}
-                            {/*    </div>*/}
-                            {/*</div>*/}
-
-                            {/*<div className="row">*/}
-                            {/*    <div className="col-lg-12">*/}
-                            {/*        <ul>*/}
-                            {/*            <li><i className="bi bi-chevron-right"/> <strong>Address:</strong>*/}
-                            {/*                <span style={{*/}
-                            {/*                    'font-size': '14px'*/}
-                            {/*                }}>*/}
-                            {/*                    HOUSE# 4/A RAFIQ HOUSING(4th Floor),ROAD# 10, SHEKERTEK, ADBAR, MOHAMMADPUR, DHAKA-1207*/}
-                            {/*                </span>*/}
-                            {/*            </li>*/}
-                            {/*        </ul>*/}
-                            {/*    </div>*/}
-                            {/*</div>*/}
 
                         </div>
                     </div>

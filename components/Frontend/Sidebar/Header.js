@@ -15,11 +15,16 @@ const Header = () => {
                         <img src="/img/profile_img.png" alt="" className="img-fluid rounded-circle"/>
                         <h1 className="text-light"><a href="/">Md. Juyel Rana</a></h1>
                         <div className="social-links mt-3 text-center">
-                            <a href="#" className="twitter"><i className="bx bxl-twitter"></i></a>
-                            <a href="#" className="facebook"><i className="bx bxl-facebook"></i></a>
-                            <a href="#" className="instagram"><i className="bx bxl-instagram"></i></a>
-                            <a href="#" className="google-plus"><i className="bx bxl-skype"></i></a>
-                            <a href="#" className="linkedin"><i className="bx bxl-linkedin"></i></a>
+                            <a href="https://www.linkedin.com/in/mohammad-juyel-rana-39b51a118/" target='_blank'
+                               className="linkedin"><i className="fab fa-linkedin-in"/></a>
+                            <a href="mailto:contact@mjuyelrana.com" target='_blank'
+                               className="email"><i className="fas fa-envelope"/></a>
+                            <a href="https://github.com/JuyelRana" className="github" target="_blank"><i
+                                className="fab fa-github"/></a>
+                            <a href="#" className="facebook"><i className="fab fa-facebook"/></a>
+                            <a href="skype:juyel.rana30?text" className="skype" target="_blank"><i
+                                className="fab fa-skype"/></a>
+
                         </div>
                     </div>
 

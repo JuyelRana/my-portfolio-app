@@ -14,3 +14,8 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.resume-anchor{
+  font-weight: bold;
+  color: #0d6efd;
+}

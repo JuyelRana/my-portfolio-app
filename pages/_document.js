@@ -35,6 +35,10 @@ class MyDocument extends Document {
                     <link
                         href="/vendor/glightbox/css/glightbox.min.css"
                         rel="stylesheet"/>
+
+                    <link href="/vendor/fontawesome/css/all.css"
+                          rel="stylesheet"/>
+
                     <link
                         href="/vendor/swiper/swiper-bundle.min.css"
                         rel="stylesheet"/>
@@ -50,15 +54,16 @@ class MyDocument extends Document {
                 <NextScript/>
 
                 {/*Vendor JS Files */}
-                <script src="/vendor/aos/aos.js"></script>
-                <script src="/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-                <script src="/vendor/glightbox/js/glightbox.min.js"></script>
-                <script src="/vendor/isotope-layout/isotope.pkgd.min.js"></script>
-                <script src="/vendor/php-email-form/validate.js"></script>
-                <script src="/vendor/purecounter/purecounter.js"></script>
-                <script src="/vendor/swiper/swiper-bundle.min.js"></script>
-                <script src="/vendor/typed.js/typed.min.js"></script>
-                <script src="/vendor/waypoints/noframework.waypoints.js"></script>
+                <script src="/vendor/aos/aos.js"/>
+                <script src="/vendor/bootstrap/js/bootstrap.bundle.min.js"/>
+                <script src="/vendor/fontawesome/js/all.js"/>
+                <script src="/vendor/glightbox/js/glightbox.min.js"/>
+                <script src="/vendor/isotope-layout/isotope.pkgd.min.js"/>
+                <script src="/vendor/php-email-form/validate.js"/>
+                <script src="/vendor/purecounter/purecounter.js"/>
+                <script src="/vendor/swiper/swiper-bundle.min.js"/>
+                <script src="/vendor/typed.js/typed.min.js"/>
+                <script src="/vendor/waypoints/noframework.waypoints.js"/>
 
                 {/*Template Main JS File */}
                 <script src="/js/main.js"></script>
