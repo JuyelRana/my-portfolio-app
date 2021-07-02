@@ -13,7 +13,7 @@ const Header = () => {
 
                     <div className="profile">
                         <img src="/img/profile_img.png" alt="" className="img-fluid rounded-circle"/>
-                        <h1 className="text-light"><a href="/">Md. Juyel Rana1</a></h1>
+                        <h1 className="text-light"><a href="/">Md. Juyel Rana</a></h1>
                         <div className="social-links mt-3 text-center">
                             <a href="https://www.linkedin.com/in/mohammad-juyel-rana-39b51a118/" target='_blank'
                                className="linkedin"><i className="fab fa-linkedin-in"/></a>
