@@ -22,7 +22,8 @@ const Header = () => {
                             <a href="https://github.com/JuyelRana" className="github" target="_blank"><i
                                 className="fab fa-github"/></a>
 
-                            <a href="https://stackoverflow.com/users/4043779/md-juyel-rana" className="github" target="_blank"><i
+                            <a href="https://stackoverflow.com/users/4043779/md-juyel-rana" className="github"
+                               target="_blank"><i
                                 className="fab fa-stack-overflow"/></a>
                             <a href="#" className="facebook"><i className="fab fa-facebook"/></a>
                             <a href="skype:juyel.rana30?text" className="skype" target="_blank"><i
@@ -34,7 +35,7 @@ const Header = () => {
                     <nav id="navbar" className="nav-menu navbar">
                         <ul>
                             <li><a href="#hero" className="nav-link scrollto active"><i className="bx bx-home"/>
-                                <span>Home Menu🤩</span></a>
+                                <span>Home</span></a>
                             </li>
                             <li><a href="#about" className="nav-link scrollto"><i className="bx bx-user"/>
                                 <span>About</span></a>
