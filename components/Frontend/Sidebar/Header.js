@@ -34,7 +34,7 @@ const Header = () => {
                     <nav id="navbar" className="nav-menu navbar">
                         <ul>
                             <li><a href="#hero" className="nav-link scrollto active"><i className="bx bx-home"/>
-                                <span>Home</span></a>
+                                <span>Home Menu🤩</span></a>
                             </li>
                             <li><a href="#about" className="nav-link scrollto"><i className="bx bx-user"/>
                                 <span>About</span></a>
