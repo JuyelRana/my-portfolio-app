@@ -29,7 +29,7 @@ const Resume = () => {
                                         10, Shekertek, Adbar, Mohammadpur, Dhaka-1207
                                     </li>
                                     <li>+8801726903951</li>
-                                    <li>contact@mjuyelrana.com</li>
+                                    <li>mjuyelrana@gmail.com</li>
                                 </ul>
                             </div>
 
