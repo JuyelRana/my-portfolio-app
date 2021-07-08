@@ -1,0 +1,59 @@
+{
+  "name": "Md. Juyel Rana, A Full Stack Developer",
+  "short_name": "Md. Juyel Rana",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/img/favicons/default.svg",
+      "type": "image/svg+xml",
+      "sizes": "",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/img/favicons/favicon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x92",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/img/favicons/favicon-16x16.png",
+      "type": "image/png",
+      "sizes": "16x16",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/img/favicons/favicon-32x32.png",
+      "type": "image/png",
+      "sizes": "32x32",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/img/favicons/favicon-36x36.png",
+      "type": "image/png",
+      "sizes": "36x36",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/img/favicons/favicon-48x48.png",
+      "type": "image/png",
+      "sizes": "48x48",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/img/favicons/favicon-96x96.png",
+      "type": "image/png",
+      "sizes": "96x96",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/img/favicons/favicon-128x128.png",
+      "type": "image/png",
+      "sizes": "128x128",
+      "purpose": "any maskable"
+    }
+  ],
+  "theme_color": "#272829",
+  "description": "Md. Juyel Rana, A Full Stack Developer, React Js (Next Js, Redux, Flux, Material UI, React-bootstrap), Vue Js(Nuxt Js, Vuex), PHP (Laravel, Codeigniter), Node Js (Express Js), Native (Java, Android, Swift), Cross Platform (React Native, Ionic), MySQL, MongoDB, Firebase"
+}
