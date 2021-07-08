@@ -36,8 +36,8 @@ class MyDocument extends Document {
 
                     <link href="/manifest.json" rel="manifest"/>
 
-                    {/*<link href="/img/favicon.png" rel="icon"/>*/}
-                    {/*<link href="/img/apple-touch-icon.png" rel="apple-touch-icon"/>*/}
+                    <link href="/img/favicon.png" rel="icon"/>
+                    <link href="/img/apple-touch-icon.png" rel="apple-touch-icon"/>
 
                     {/*<link rel="icon" type="image/svg+xml" href="https://mjuyelrana.com/img/favicons/default.svg"/>*/}
                     {/*<link rel="apple-touch-icon" sizes="192x92"*/}
