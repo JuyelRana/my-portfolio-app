@@ -25,7 +25,7 @@ class MyDocument extends Document {
                     <meta content='241110544128' property='fb:app_id'/>
                     <meta property="og:url" content="https://mjuyelrana.com/"/>
                     <meta property="og:type" content="website"/>
-                    <meta property="og:image" content="/img/favicons/favicon-400x400.png"/>
+                    <meta property="og:image" content="https://mjuyelrana.com/img/favicons/favicon-400x400.png"/>
                     <meta property="og:image:width" content="400"/>
                     <meta property="og:image:height" content="400"/>
 
@@ -36,45 +36,51 @@ class MyDocument extends Document {
 
                     <link href="/manifest.json" rel="manifest"/>
 
-                    <link href="/img/favicon.png" rel="icon"/>
-                    <link href="/img/apple-touch-icon.png" rel="apple-touch-icon"/>
+                    {/*<link href="/img/favicon.png" rel="icon"/>*/}
+                    {/*<link href="/img/apple-touch-icon.png" rel="apple-touch-icon"/>*/}
 
-                    {/*<link rel="icon" type="image/svg+xml" href="/img/favicons/default.svg"/>*/}
-                    {/*<link rel="apple-touch-icon" sizes="192x92" href="/img/favicons/favicon-192x192.png"/>*/}
-                    {/*<link rel="icon" type="image/png" sizes="192x92" href="/img/favicons/favicon-192x192.png"/>*/}
-                    {/*<link rel="apple-touch-icon" sizes="57x57" href="/img/favicons/favicon-57x57.png"/>*/}
-                    {/*<link rel="apple-touch-icon" sizes="60x60" href="/img/favicons/favicon-60x60.png"/>*/}
-                    {/*<link rel="apple-touch-icon" sizes="72x72" href="/img/favicons/favicon-72x72.png"/>*/}
-                    {/*<link rel="apple-touch-icon" sizes="76x76" href="/img/favicons/favicon-76x76.png"/>*/}
-                    {/*<link rel="apple-touch-icon" sizes="114x114"*/}
-                    {/*      href="/img/favicons/favicon-114x114.png"/>*/}
-                    {/*<link rel="apple-touch-icon" sizes="120x120"*/}
-                    {/*      href="/img/favicons/favicon-120x120.png"/>*/}
-                    {/*<link rel="apple-touch-icon" sizes="144x144"*/}
-                    {/*      href="/img/favicons/favicon-144x144.png"/>*/}
-                    {/*<link rel="apple-touch-icon" sizes="152x152"*/}
-                    {/*      href="/img/favicons/favicon-152x152.png"/>*/}
-                    {/*<link rel="apple-touch-icon" sizes="180x180"*/}
-                    {/*      href="/img/favicons/favicon-180x180.png"/>*/}
-                    {/*<link rel="icon" type="image/png" sizes="16x16"*/}
-                    {/*      href="/img/favicons/favicon-16x16.png"/>*/}
-                    {/*<link rel="icon" type="image/png" sizes="32x32"*/}
-                    {/*      href="/img/favicons/favicon-32x32.png"/>*/}
-                    {/*<link rel="icon" type="image/png" sizes="36x36"*/}
-                    {/*      href="/img/favicons/favicon-36x36.png"/>*/}
-                    {/*<link rel="icon" type="image/png"*/}
-                    {/*      sizes="48x48"*/}
-                    {/*      href="/img/favicons/favicon-48x48.png"/>*/}
-                    {/*<link rel="icon" type="image/png"*/}
-                    {/*      sizes="96x96"*/}
-                    {/*      href="/img/favicons/favicon-96x96.png"/>*/}
-                    {/*<link rel="icon" type="image/png"*/}
-                    {/*      sizes="128x128"*/}
-                    {/*      href="/img/favicons/favicon-128x128.png"/>*/}
-                    {/*<link rel="icon"*/}
-                    {/*      type="image/png"*/}
-                    {/*      sizes="512x512"*/}
-                    {/*      href="/img/favicons/favicon-512x512.png"/>*/}
+                    <link rel="icon" type="image/svg+xml" href="https://mjuyelrana.com/img/favicons/default.svg"/>
+                    <link rel="apple-touch-icon" sizes="192x92"
+                          href="https://mjuyelrana.com/img/favicons/favicon-192x192.png"/>
+                    <link rel="icon" type="image/png" sizes="192x92"
+                          href="https://mjuyelrana.com/img/favicons/favicon-192x192.png"/>
+                    <link rel="apple-touch-icon" sizes="57x57"
+                          href="https://mjuyelrana.com/img/favicons/favicon-57x57.png"/>
+                    <link rel="apple-touch-icon" sizes="60x60"
+                          href="https://mjuyelrana.com/img/favicons/favicon-60x60.png"/>
+                    <link rel="apple-touch-icon" sizes="72x72"
+                          href="https://mjuyelrana.com/img/favicons/favicon-72x72.png"/>
+                    <link rel="apple-touch-icon" sizes="76x76"
+                          href="https://mjuyelrana.com/img/favicons/favicon-76x76.png"/>
+                    <link rel="apple-touch-icon" sizes="114x114"
+                          href="https://mjuyelrana.com/img/favicons/favicon-114x114.png"/>
+                    <link rel="apple-touch-icon" sizes="120x120"
+                          href="https://mjuyelrana.com/img/favicons/favicon-120x120.png"/>
+                    <link rel="apple-touch-icon" sizes="144x144"
+                          href="https://mjuyelrana.com/img/favicons/favicon-144x144.png"/>
+                    <link rel="apple-touch-icon" sizes="152x152"
+                          href="https://mjuyelrana.com/img/favicons/favicon-152x152.png"/>
+                    <link rel="apple-touch-icon" sizes="180x180"
+                          href="https://mjuyelrana.com/img/favicons/favicon-180x180.png"/>
+                    <link rel="icon" type="image/png" sizes="16x16"
+                          href="https://mjuyelrana.com/img/favicons/favicon-16x16.png"/>
+                    <link rel="icon" type="image/png" sizes="32x32"
+                          href="https://mjuyelrana.com/img/favicons/favicon-32x32.png"/>
+                    <link rel="icon" type="image/png" sizes="36x36"
+                          href="https://mjuyelrana.com/img/favicons/favicon-36x36.png"/>
+                    <link rel="icon" type="image/png"
+                          sizes="48x48"
+                          href="https://mjuyelrana.com/img/favicons/favicon-48x48.png"/>
+                    <link rel="icon" type="image/png"
+                          sizes="96x96"
+                          href="https://mjuyelrana.com/img/favicons/favicon-96x96.png"/>
+                    <link rel="icon" type="image/png"
+                          sizes="128x128"
+                          href="https://mjuyelrana.com/img/favicons/favicon-128x128.png"/>
+                    <link rel="icon"
+                          type="image/png"
+                          sizes="512x512"
+                          href="https://mjuyelrana.com/img/favicons/favicon-512x512.png"/>
 
                     <link
                         href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
