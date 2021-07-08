@@ -5,14 +5,12 @@ import Facts from "../components/Frontend/Pages/Facts";
 import Skills from "../components/Frontend/Pages/Skills";
 import Resume from "../components/Frontend/Pages/Resume";
 import Portfolio from "../components/Frontend/Pages/Portfolio";
-import SiteHeader from "../components/Frontend/Header/SiteHeader";
 
 const Home = () => {
     return (
         <>
-            <SiteHeader/>
-            <Layout>
 
+            <Layout>
                 {/*Hero Section*/}
                 <section
                     id="hero"
