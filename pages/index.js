@@ -16,7 +16,7 @@ const Home = () => {
                     id="hero"
                     className="d-flex flex-column justify-content-center align-items-center"
                     style={{
-                        backgroundImage: `url('/img/hero.png')`
+                        backgroundImage: `url('/img/hero1.jpg')`
                     }}>
 
                     <div className="hero-container" data-aos="fade-in">
