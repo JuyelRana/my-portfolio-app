@@ -32,8 +32,8 @@ class MyDocument extends Document {
                     <span itemProp="image" itemScope itemType="https://schema.org/ImageObject">
                         <link itemProp="https://mjuyelrana.com/img/profile_img.png"
                               href="https://mjuyelrana.com/img/profile_img.png"/>
-                        <meta itemProp="width" content="600"/>
-                        <meta itemProp="height" content="600"/>
+                        <meta itemProp="width" content="300"/>
+                        <meta itemProp="height" content="300"/>
                     </span>
 
                     <meta property="og:site_name" content="Md. Juyel Rana | Personal Portfolio"/>
