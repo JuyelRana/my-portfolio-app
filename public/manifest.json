@@ -6,49 +6,49 @@
   "background_color": "#ffffff",
   "icons": [
     {
-      "src": "/img/favicons/default.svg",
+      "src": "https://mjuyelrana.com/img/favicons/default.svg",
       "type": "image/svg+xml",
       "sizes": "",
       "purpose": "any maskable"
     },
     {
-      "src": "/img/favicons/favicon-192x192.png",
+      "src": "https://mjuyelrana.com/img/favicons/favicon-192x192.png",
       "type": "image/png",
       "sizes": "192x92",
       "purpose": "any maskable"
     },
     {
-      "src": "/img/favicons/favicon-16x16.png",
+      "src": "https://mjuyelrana.com/img/favicons/favicon-16x16.png",
       "type": "image/png",
       "sizes": "16x16",
       "purpose": "any maskable"
     },
     {
-      "src": "/img/favicons/favicon-32x32.png",
+      "src": "https://mjuyelrana.com/img/favicons/favicon-32x32.png",
       "type": "image/png",
       "sizes": "32x32",
       "purpose": "any maskable"
     },
     {
-      "src": "/img/favicons/favicon-36x36.png",
+      "src": "https://mjuyelrana.com/img/favicons/favicon-36x36.png",
       "type": "image/png",
       "sizes": "36x36",
       "purpose": "any maskable"
     },
     {
-      "src": "/img/favicons/favicon-48x48.png",
+      "src": "https://mjuyelrana.com/img/favicons/favicon-48x48.png",
       "type": "image/png",
       "sizes": "48x48",
       "purpose": "any maskable"
     },
     {
-      "src": "/img/favicons/favicon-96x96.png",
+      "src": "https://mjuyelrana.com/img/favicons/favicon-96x96.png",
       "type": "image/png",
       "sizes": "96x96",
       "purpose": "any maskable"
     },
     {
-      "src": "/img/favicons/favicon-128x128.png",
+      "src": "https://mjuyelrana.com/img/favicons/favicon-128x128.png",
       "type": "image/png",
       "sizes": "128x128",
       "purpose": "any maskable"
