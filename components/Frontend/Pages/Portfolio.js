@@ -41,7 +41,7 @@ const Portfolio = () => {
                                     <div className="portfolio-wrap">
 
                                         <Image
-                                            loader={myLoader}
+                                            // loader={myLoader}
                                             width={800}
                                             height={600}
                                             src={product.image}
