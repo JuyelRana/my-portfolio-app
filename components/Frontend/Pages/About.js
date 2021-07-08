@@ -9,7 +9,7 @@ const About = () => {
                     <div className="section-title">
                         <h2>About</h2>
                         <p>
-                            I like to build awesome software. For more than five years I am working on this developing
+                            I like to build awesome software. For more than four years I am working on this developing
                             sector. In this period I have developed many web and mobile applications using many
                             environments
                             and programming languages. I love my profession and I am always looking for the improvements
@@ -19,7 +19,7 @@ const About = () => {
 
                     <div className="row">
                         <div className="col-lg-4" data-aos="fade-right">
-                            <img src="/img/profile_img.png" className="img-fluid" alt=""/>
+                            <img src="/img/profile_img.png" className="img-fluid" alt="Profile Image"/>
                         </div>
                         <div className="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
 
