@@ -3,6 +3,11 @@ import Image from 'next/image'
 import {portfolios} from "../../../constants/dummy";
 
 const Portfolio = () => {
+
+    const myLoader = ({src, width, quality}) => {
+        return `${src}?w=${width}&q=${quality || 75}`
+    }
+
     return (
         <>
             <section id="portfolio" className="portfolio section-bg">
@@ -36,6 +41,7 @@ const Portfolio = () => {
                                     <div className="portfolio-wrap">
 
                                         <Image
+                                            loader={myLoader}
                                             width={800}
                                             height={600}
                                             src={product.image}

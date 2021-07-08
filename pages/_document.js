@@ -47,6 +47,8 @@ class MyDocument extends Document {
                           rel="stylesheet"/>
                 </Head>
 
+                {/*<Head/>*/}
+
                 <body>
 
                 <Main/>
